@@ -1,5 +1,5 @@
-# callcenter
-callcenter, implemented in java
+# callCenter
+callCenter, implemented in java
 
 Java Object-oriented exercise:
 
